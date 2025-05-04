@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![steperusi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=steperusi&merko)](https://github.com/steperusi/github-readme-activity-graph)
+[![steperusi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=steperusi&theme=merko)](https://github.com/steperusi/github-readme-activity-graph)
